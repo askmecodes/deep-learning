@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Deep Learning
 
-You can use the [editor on GitHub](https://github.com/askmecodes/deep-learning/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/askmecodes/deep-learning/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Convolutional Neural Network
+- What is convolutional neural network?
+- What is the Boltzmann Machine?
+- What Are the Different Layers on CNN?
+- What is feed forward and back propagation in neural network?
+- Explain a Computational Graph.
+- What happens to the dimension of the output of 2d image (28x28) after implementation of filter of size 3 and padding of size 1?
+- Why is pooling used in CNN? How does it reduce the dimension of the feature?
+- What is parameter sharing and local connectivity in CNN?
+- What is drop out in CNN?
+- How do you set drop out with hyper-parameter setting in CNN?
