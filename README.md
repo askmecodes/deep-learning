@@ -24,7 +24,7 @@
 - What is callback in deep learning?
 - What if we use learning rate that is too large?
 
-### Convolutional Neural Network
+### Convolutional Neural Network (CNN)
 - What is convolutional neural network?
 - What is the Boltzmann Machine?
 - What Are the Different Layers on CNN?
@@ -45,7 +45,7 @@
 - Describe VGG net in detail for number of layers and parameters involved
 - What is the difference between AlexNet, VGGNet, ResNet, and Inception?
 
-### Recurrent Neural Network
+### Recurrent Neural Network (RNN)
 - What is recurrent neural network?
 - What are the equations of simple RNN model?
 - What do you mean by unrolling of RNN network?
@@ -85,9 +85,29 @@
 - What is BERT?
 - What is difference between LSTM and Transformer?
 
+### Generative adversarial networks (GAN)
+- Explain Generative Adversarial Network.
+- How do you create a generative adversarial network?
+- Is Gan supervised?
+- What is a Dcgan?
+- How do I train my gan? Give a higher level walk through.
+- What is adversarial loss?
+- Why is Gan hard to train?
+- What is Wasserstein loss?
+- How many images does it take to train a gan?
+- Can Gan be used for classification?
 
+### Graph Neural Network
 
-
+- What is graph neural network?
+- What are Graph neural networks used for?
+- Is neural network a graph?
+- Why do we embed graphs?
+- Can graph neural networks count substructures?
+- What is a graph convolutional network?
+- What are graph embeddings?
+- What is network embedding?
+- How do I train my gnn? Give a higher level walk through.
 
 
 
