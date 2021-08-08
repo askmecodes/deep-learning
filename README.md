@@ -3,6 +3,26 @@
 - How Are Weights Initialized in a Network?
 - Describe feed forward and back propagation in neural network
 - What Is a Multi-layer Perceptron(MLP)?
+- What is activation function? Why are thy important? Can you create a neural network without activation function?
+- What Is the Difference Between a Feedforward Neural Network and Recurrent Neural Network?
+- What is loss function? What is cost function?
+- What is word embedding? How do you create a word embedding?
+- Is GloVe better than Word2Vec?
+- Is FastText better than GloVe?
+- What do you do with train, validation and test set in deep learning?
+- What is batch normalization?
+- What is optimizer? How do you select optimiser?
+- While training a model, we compile the model with three things: loss, optimizer, accuracy. What is the importance of these three things?
+- What is basic difference between loss and accuracy? Don't they sound same?
+- What is hyper-parameter tuning in deep learning?
+- What Will Happen If the Learning Rate Is Set Too Low or Too High?
+- How do you calculate parameters in fully connected neural network?
+- What is batch size and epoch? How does this affect the training and validation accuracy?
+- What do you mean by batch size 1000 and epoch 10? How many times do you update the wight matrices if you train the model with 1 million sample data?
+- What is Adam Optimizer?
+- How do you know you are over fitting?
+- What is callback in deep learning?
+- What if we use learning rate that is too large?
 
 ### Convolutional Neural Network
 - What is convolutional neural network?
