@@ -1,4 +1,8 @@
-## Deep Learning
+### Deep Learning
+- What is Neural Network?
+- How Are Weights Initialized in a Network?
+- Describe feed forward and back propagation in neural network
+- What Is a Multi-layer Perceptron(MLP)?
 
 ### Convolutional Neural Network
 - What is convolutional neural network?
@@ -11,3 +15,12 @@
 - What is parameter sharing and local connectivity in CNN?
 - What is drop out in CNN?
 - How do you set drop out with hyper-parameter setting in CNN?
+- Where can I dropout of CNN?
+- What Is the Difference Between Epoch, Batch, and Iteration in Deep Learning?
+- What is auto-encoder?
+
+### Transfer Learning
+- What is transfer learning?
+- Describe some established transfer learning network.
+- Describe VGG net in detail for number of layers and parameters involved
+- What is the difference between AlexNet, VGGNet, ResNet, and Inception?
