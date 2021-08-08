@@ -44,3 +44,98 @@
 - Describe some established transfer learning network.
 - Describe VGG net in detail for number of layers and parameters involved
 - What is the difference between AlexNet, VGGNet, ResNet, and Inception?
+
+### Recurrent Neural Network
+- What is recurrent neural network?
+- What are the equations of simple RNN model?
+- What do you mean by unrolling of RNN network?
+- Describe back propagation in simple RNN model.
+- How do you connect Fully connected layer after RNN layer?
+- What is time distributed layer in RNN with LSTM cells?
+- How do you select the number of cell in RNN?
+- What are different output model in RNN?
+- What are vanishing and exploding gradient problem in simple RNN model?
+- What is limitation of simple RNN for long term memory?
+- What is LSTM?
+- Describe internal structure of LSTM cell.
+- How many parameters are needed to be trained in single LSTM cell?
+- What is the dimension of the input and output of the LSTM cell?
+- Describe Feed Forward and Back-propagation in LSTM.
+- What is GRU?
+- What is difference between simple RNN, LSTM, and GRU?
+- What is vanilla LSTM?
+- How does data flow in multi-layered LSTM network?
+- What is encoder-decoder LSTM?
+- What are use cases of Encoder-Decoder LSTM?
+- What is bidirectional LSTM? When do you use them?
+- What are the limitation of LSTM based models?
+- What is attention Mechanism?
+- Describe attention mechanism in CNN.
+- Describe attention mechanism in Encoder-Decoder network.
+- What is a Transformer?
+- What is positional encoding in transformer network?
+- What is multi head attention in Transformer?
+- Describe structure of transformer in detail.
+- How many parameters are there to be trained in Transformer network?
+- What are the use cases of Transformer.
+- How one can use transformer for language translation?
+- How one can use transformer for document summarizing?
+- How one can use transformer for NER?
+- How one can use transformer for sequence analysis?
+- What is BERT?
+- What is difference between LSTM and Transformer?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- 
